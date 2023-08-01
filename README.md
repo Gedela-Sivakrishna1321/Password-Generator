@@ -15,3 +15,5 @@ We have to select the length by pulling the slider and then click on the type of
 Finally, We can copy the password..
 
 ![Screenshot (604)](https://github.com/Gedela-Sivakrishna1321/Password-Generator/assets/128217091/3671e637-4327-4877-b324-e1e39ffa7894)
+
+Check out the website here :- https://gedela-sivakrishna1321.github.io/Password-Generator/
