@@ -16,4 +16,4 @@ Finally, We can copy the password..
 
 ![Screenshot (604)](https://github.com/Gedela-Sivakrishna1321/Password-Generator/assets/128217091/3671e637-4327-4877-b324-e1e39ffa7894)
 
-Check out the website here :- https://gedela-sivakrishna1321.github.io/Password-Generator/
+Check out the website here :- https://password-generator-beta-inky.vercel.app/
